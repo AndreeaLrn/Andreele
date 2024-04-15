@@ -1,0 +1,4 @@
+int32 duration # The time (in seconds) during which BB-8 will keep moving in circles 
+string direction
+---
+bool success # Did it achieve it?

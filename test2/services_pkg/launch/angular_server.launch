@@ -1,0 +1,4 @@
+
+<launch>
+<node pkg="services_pkg" type="angular_server.py" name="service_server" output="screen"/>
+</launch>
