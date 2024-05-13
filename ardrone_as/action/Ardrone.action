@@ -1,0 +1,8 @@
+#goal for the drone
+int32 nseconds
+---
+#result
+string num_publicate
+---
+#feedback
+int32 nr_curent
