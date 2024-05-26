@@ -1,0 +1,3 @@
+<launch>
+<node pkg="Andreele" type="simple_topics_publisher" name="Andreele" output="screen"></node>
+</launch>
